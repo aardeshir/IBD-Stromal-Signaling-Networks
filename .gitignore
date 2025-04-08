@@ -1,0 +1,27 @@
+# Data files
+data/
+*.rds
+*.RData
+*.rda
+
+# Results
+results/
+
+# Figures - allow specific included figures
+# figures/
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+
+# R files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Log files
+*.log 

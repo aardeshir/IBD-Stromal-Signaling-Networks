@@ -7,8 +7,14 @@ data/
 # Results
 results/
 
-# Figures
-figures/
+# Figures - allow specific included figures
+# figures/
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
 
 # R files
 .Rproj.user
@@ -16,12 +22,6 @@ figures/
 .RData
 .Ruserdata
 *.Rproj
-
-# OS files
-.DS_Store
-Thumbs.db
-*.swp
-*.tmp
 
 # Log files
 *.log 
